@@ -6,6 +6,6 @@ import Navbar from "@/components/Navbar.vue";
 <template>
   <div>
     <Navbar />
-    <h1>Hello World from road to tiny url!</h1>
+    <h1>Hello World from Tiny URL!</h1>
   </div>
 </template>
